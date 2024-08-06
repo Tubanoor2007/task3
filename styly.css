@@ -1,0 +1,82 @@
+body{
+    background-image: url(/lib/images.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+      
+}
+.text{
+    top:20%;
+    padding: 5%;
+    margin-top: 233px;  
+}
+.id{ 
+background-image: url(lib/kq.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 30%;
+    padding: 10%;
+    margin-top: 200px;
+
+}
+.lib{
+    background-image: url(lib/q.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 50%;
+    padding: 60%;
+    margin: -200px;
+
+}
+
+ .lib1{
+    position: absolute;
+    top: 1384px;
+    left: 84px;
+}
+.lib2{
+    position: absolute;
+    top: 1384px;
+    left: 363px;
+}
+.lib3{
+    position: absolute;
+    top: 1605px;
+    left: 360px;
+}
+.lib4{
+    position: absolute;
+    top: 1605px;
+    left: 86px;
+}
+
+.imag{
+    position: absolute;
+    top: 1605px; 
+    left: 629px;
+
+}
+
+.lib6{
+    position: absolute;
+    top: 1841px; 
+    left: 360px;
+
+}
+
+.p{
+
+  position: absolute;
+        top: 1841px; 
+        left: 83px;
+    
+}
+
+.lib7{
+    position: absolute;
+    top:1841px; 
+    left: 632px;
+
+}
+
+    
