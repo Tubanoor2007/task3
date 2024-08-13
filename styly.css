@@ -1,5 +1,5 @@
 body{
-    background-image: url(/lib/images.avif);
+    background-image: url(lib/oo.avif);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -11,7 +11,7 @@ body{
     margin-top: 233px;  
 }
 .id{ 
-background-image: url(lib/kq.jfif);
+background-image: url(lib/download\ \(1\).jfif);
     background-repeat: no-repeat;
     background-size: cover;
     top: 30%;
@@ -20,7 +20,7 @@ background-image: url(lib/kq.jfif);
 
 }
 .lib{
-    background-image: url(lib/q.jfif);
+    background-image: url(lib/rr.jfif);
     background-repeat: no-repeat;
     background-size: cover;
     top: 50%;
@@ -41,25 +41,25 @@ background-image: url(lib/kq.jfif);
 }
 .lib3{
     position: absolute;
-    top: 1605px;
+    top: 1656px;
     left: 360px;
 }
 .lib4{
     position: absolute;
-    top: 1605px;
+    top: 1656px;
     left: 86px;
 }
 
 .imag{
     position: absolute;
-    top: 1605px; 
+    top: 1656px; 
     left: 629px;
 
 }
 
 .lib6{
     position: absolute;
-    top: 1841px; 
+    top: 1925px; 
     left: 360px;
 
 }
@@ -67,14 +67,14 @@ background-image: url(lib/kq.jfif);
 .p{
 
   position: absolute;
-        top: 1841px; 
+        top: 1925px; 
         left: 83px;
     
 }
 
 .lib7{
     position: absolute;
-    top:1841px; 
+    top:1925px; 
     left: 632px;
 
 }
